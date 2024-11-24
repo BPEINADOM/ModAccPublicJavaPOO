@@ -9,7 +9,7 @@ public class Empleado {
         this.sueldo = sueldo;
     }
 
-    public double sueldo() {
+    public double getSueldo() {
         return sueldo;
     }
 
